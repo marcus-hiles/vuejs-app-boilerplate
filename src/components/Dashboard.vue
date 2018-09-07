@@ -35,7 +35,7 @@ export default {
   props: {
     msg: String
   },
-  method: {}
+  methods: {}
 }
 </script>
 
