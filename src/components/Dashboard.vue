@@ -34,7 +34,8 @@ export default {
   name: 'Dashboard',
   props: {
     msg: String
-  }
+  },
+  method: {}
 }
 </script>
 
